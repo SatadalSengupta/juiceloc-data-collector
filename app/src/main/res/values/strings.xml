@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JuiceLoc Data Collector</string>
+    <string name="start_text">Start Data Collection</string>
+    <string name="stop_text">Stop Data Collection</string>
+    <string name="start_button_text">START</string>
+    <string name="stop_button_text">STOP</string>
+    <string name="choose_sensors_text">The sensors available in this device are
+        listed below. The selected ones are logged.\nKeep the default ones enabled,
+        or change according to requirement.
+    </string>
+</resources>
